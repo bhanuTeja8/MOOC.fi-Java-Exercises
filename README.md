@@ -52,7 +52,32 @@ This repository contains my solutions for the **Java Programming I** course prov
 
 ## 📜 License and Honor Code
 
-All code in this repository represents my personal solutions to course assignments. It is provided for educational purposes only. Please do not copy or submit this code as your own if you're taking the course. Always follow the [MOOC.fi honor code](https://mooc.fi/en/#faq).
+All code in this repository represents my **personal solutions** to programming assignments inspired by the [MOOC.fi Java Programming course](https://mooc.fi/en/#faq) and other publicly available Java resources.
+
+During the completion of this project, I referenced publicly shared educational repositories such as:
+
+- [birukbk/birukbk
+Object-Oriented-programming-with-Java-part-I](https://github.com/birukbk/Object-Oriented-programming-with-Java-part-I)
+- [BhanuTeja-8055/Java_Assignment](https://github.com/BhanuTeja-8055/Java_Assignment)
+- [Kunal Kushwaha's DSA Bootcamp Java Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+
+These references were used **strictly for learning and understanding**, and all code in this repository has been written and tested by me independently.
+
+> ⚠️ **Disclaimer:** This repository is provided for educational and reference purposes only.  
+> Please do not copy or submit this code as your own if you are currently taking the MOOC.fi or any related course.  
+> Doing so would violate the [MOOC.fi honor code](https://mooc.fi/en/#faq) and your institution’s academic policies.
+
+### ✅ You Can:
+- Use this repository to reinforce your Java knowledge.
+- Review logic and structure for learning purposes.
+- Fork or adapt this code for **personal, non-submission** use.
+
+### ❌ You Must Not:
+- Submit this code as your own for graded assignments.
+- Use it in any academic setting without proper attribution or understanding.
+
+---
+
 
 ---
 
