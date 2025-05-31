@@ -52,7 +52,20 @@ This repository contains my solutions for the **Java Programming I** course prov
 
 ## 📜 License and Honor Code
 
-All code in this repository represents my personal solutions to course assignments. It is provided for educational purposes only. Please do not copy or submit this code as your own if you're taking the course. Always follow the [MOOC.fi honor code](https://mooc.fi/en/#faq).
+All code in this repository represents my **personal solutions** to programming assignments inspired by the [MOOC.fi Java Programming course](https://mooc.fi/en/#faq) and other publicly available Java resources.
+
+During the completion of this project, I referenced publicly shared educational repositories such as:
+
+- [birukbk/birukbk
+Object-Oriented-programming-with-Java-part-I](https://github.com/birukbk/Object-Oriented-programming-with-Java-part-I)
+- [BhanuTeja-8055/Java_Assignment](https://github.com/BhanuTeja-8055/Java_Assignment)
+- [Kunal Kushwaha's DSA Bootcamp Java Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+
+These references were used **strictly for learning and understanding**, and all code in this repository has been written and tested by me independently.
+
+
+---
+
 
 ---
 
