@@ -58,7 +58,7 @@ During the completion of this project, I referenced publicly shared educational 
 
 - [birukbk/birukbk
 Object-Oriented-programming-with-Java-part-I](https://github.com/birukbk/Object-Oriented-programming-with-Java-part-I)
-- [BhanuTeja-8055/Java_Assignment](https://github.com/BhanuTeja-8055/Java_Assignment)
+- [bhanuTeja8/Java_Assignment](https://github.com/BhanuTeja-8055/Java_Assignment)
 - [Kunal Kushwaha's DSA Bootcamp Java Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
 These references were used **strictly for learning and understanding**, and all code in this repository has been written and tested by me independently.
