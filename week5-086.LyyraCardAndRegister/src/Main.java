@@ -1,6 +1,4 @@
-
 public class Main {
-
     public static void main(String[] args) {
         CashRegister unicafeExactum = new CashRegister();
         System.out.println( unicafeExactum );
@@ -22,3 +20,4 @@ public class Main {
         System.out.println( unicafeExactum );
     }
 }
+ 
