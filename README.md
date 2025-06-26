@@ -67,7 +67,6 @@ These references were used **strictly for learning and understanding**, and all 
 ---
 
 
----
 
 ## 🔗 Links
 - [MOOC.fi – Java Programming I](https://mooc.fi/en/)
